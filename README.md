@@ -6,4 +6,4 @@
 - TestNG : 7.3.0
 - org.apache.poi : 5.0.0 (poi-ooxml)
 - Run the test script file (Run as TestNG test) or pom.xml to execute the test cases.
-  Test case path : /src/test/java/testscripts/
+- Test case path : /src/test/java/testscripts/
