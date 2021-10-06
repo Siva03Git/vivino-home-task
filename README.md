@@ -5,4 +5,4 @@
 - webdrivermanager : 5.0.3
 - TestNG : 7.3.0
 - org.apache.poi : 5.0.0 (poi-ooxml)
-- Run the test script files (Run as TestNG test) or pom.xml to run the test cases.
+- Run the test script file (Run as TestNG test) or pom.xml to execute the test cases.
